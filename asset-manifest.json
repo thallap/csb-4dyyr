@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://thallap.github.io/csb-4dyyr/static/css/main.7b57dc9e.chunk.css",
-    "main.js": "https://thallap.github.io/csb-4dyyr/static/js/main.66a810ed.chunk.js",
-    "main.js.map": "https://thallap.github.io/csb-4dyyr/static/js/main.66a810ed.chunk.js.map",
+    "main.css": "https://thallap.github.io/csb-4dyyr/static/css/main.c78ee592.chunk.css",
+    "main.js": "https://thallap.github.io/csb-4dyyr/static/js/main.3e4bfb33.chunk.js",
+    "main.js.map": "https://thallap.github.io/csb-4dyyr/static/js/main.3e4bfb33.chunk.js.map",
     "runtime-main.js": "https://thallap.github.io/csb-4dyyr/static/js/runtime-main.9ef270b9.js",
     "runtime-main.js.map": "https://thallap.github.io/csb-4dyyr/static/js/runtime-main.9ef270b9.js.map",
     "static/css/2.9c48f3ed.chunk.css": "https://thallap.github.io/csb-4dyyr/static/css/2.9c48f3ed.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.e7dffc8d.chunk.js.map": "https://thallap.github.io/csb-4dyyr/static/js/2.e7dffc8d.chunk.js.map",
     "index.html": "https://thallap.github.io/csb-4dyyr/index.html",
     "static/css/2.9c48f3ed.chunk.css.map": "https://thallap.github.io/csb-4dyyr/static/css/2.9c48f3ed.chunk.css.map",
-    "static/css/main.7b57dc9e.chunk.css.map": "https://thallap.github.io/csb-4dyyr/static/css/main.7b57dc9e.chunk.css.map",
+    "static/css/main.c78ee592.chunk.css.map": "https://thallap.github.io/csb-4dyyr/static/css/main.c78ee592.chunk.css.map",
     "static/js/2.e7dffc8d.chunk.js.LICENSE.txt": "https://thallap.github.io/csb-4dyyr/static/js/2.e7dffc8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ef270b9.js",
     "static/css/2.9c48f3ed.chunk.css",
     "static/js/2.e7dffc8d.chunk.js",
-    "static/css/main.7b57dc9e.chunk.css",
-    "static/js/main.66a810ed.chunk.js"
+    "static/css/main.c78ee592.chunk.css",
+    "static/js/main.3e4bfb33.chunk.js"
   ]
 }
